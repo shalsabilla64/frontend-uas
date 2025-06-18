@@ -24,7 +24,8 @@ Proyek ini merupakan aplikasi berbasis Laravel yang menyediakan fitur **CRUD (Cr
 ## 🗃️ Database
 query database :
 
-'''CREATE DATABASE db_rumahsakit_23102043;
+```bash
+CREATE DATABASE db_rumahsakit_23102043;
 USE db_rumahsakit_230102043;
 
 CREATE TABLE pasien (
@@ -42,7 +43,7 @@ CREATE TABLE obat (
   stok INT,
   harga DECIMAL(10,2)
 );
-'''
+```
 
 ---
 
